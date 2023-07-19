@@ -1,22 +1,19 @@
-# Celebrity-Anecdotes-of-Computer-Science-Postgraduate-Students
-
 
 
 
 <!-- TOC -->
 
-- [Celebrity-Anecdotes-of-Computer-Science-Postgraduate-Students](#celebrity-anecdotes-of-computer-science-postgraduate-students)
-- [太君的故事](#太君的故事)
-- [49哥的故事](#49哥的故事)
-- [小土狗的故事](#小土狗的故事)
-- [fury的故事](#fury的故事)
-  - [版本1](#版本1)
-  - [版本2](#版本2)
-- [王德梅的故事](#王德梅的故事)
-- [锦子的故事](#锦子的故事)
-- [鸡蛋酱的故事](#鸡蛋酱的故事)
-- [醋志华的故事](#醋志华的故事)
-- [浆果的故事](#浆果的故事)
+- [太君的故事](#%E5%A4%AA%E5%90%9B%E7%9A%84%E6%95%85%E4%BA%8B)
+- [哥的故事](#%E5%93%A5%E7%9A%84%E6%95%85%E4%BA%8B)
+- [小土狗的故事](#%E5%B0%8F%E5%9C%9F%E7%8B%97%E7%9A%84%E6%95%85%E4%BA%8B)
+- [fury的故事](#fury%E7%9A%84%E6%95%85%E4%BA%8B)
+    - [版本1](#%E7%89%88%E6%9C%AC1)
+    - [版本2](#%E7%89%88%E6%9C%AC2)
+- [王德梅的故事](#%E7%8E%8B%E5%BE%B7%E6%A2%85%E7%9A%84%E6%95%85%E4%BA%8B)
+- [锦子的故事](#%E9%94%A6%E5%AD%90%E7%9A%84%E6%95%85%E4%BA%8B)
+- [鸡蛋酱的故事](#%E9%B8%A1%E8%9B%8B%E9%85%B1%E7%9A%84%E6%95%85%E4%BA%8B)
+- [醋志华的故事](#%E9%86%8B%E5%BF%97%E5%8D%8E%E7%9A%84%E6%95%85%E4%BA%8B)
+- [浆果的故事](#%E6%B5%86%E6%9E%9C%E7%9A%84%E6%95%85%E4%BA%8B)
 
 <!-- /TOC -->
 
